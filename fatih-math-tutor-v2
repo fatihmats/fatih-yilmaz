@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fatih Yilmaz | Expert Math Tutor & Olympiad Coach | Paterson NJ</title>
+  <meta name="description" content="17+ years experienced AP Calculus, Algebra, Geometry & Olympiad coach in Paterson, NJ. In-person & online lessons. NJ certified teacher.">
+  
+  <!-- Local SEO JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationService",
+    "name": "Fatih Yilmaz Math Tutoring",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "telephone": "+13477710802",
+    "email": "fatihmats@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Paterson",
+      "addressRegion": "NJ",
+      "postalCode": "07503",
+      "addressCountry": "US"
+    },
+    "areaServed": ["Paterson NJ","Hackensack NJ","Fair Lawn NJ","Clifton NJ","Passaic NJ"],
+    "url": "https://fatihyilmazmath.com",
+    "description": "Private math tutoring by NJ certified teacher with 17+ years experience and multiple world Olympiad medals.",
+    "provider": {
+      "@type": "Person",
+      "name": "Fatih Yilmaz",
+      "jobTitle": "Mathematics Teacher & Olympiad Coach"
+    },
+    "offers": [
+      {"@type":"Offer","name":"AP Calculus Package","price":"120","priceCurrency":"USD"},
+      {"@type":"Offer","name":"Algebra/Geometry Weekly","price":"90","priceCurrency":"USD"},
+      {"@type":"Offer","name":"Olympiad Training","price":"150","priceCurrency":"USD"}
+    ]
+  }
+  </script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <!-- Calendly -->
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+  <script src="https://assets.calendly.com/assets/external/widget.js" async></script>
+  
+  <style>
+    :root{--p:#4f46e5;--pd:#3730a3;--a:#f59e0b;--g:#64748b;--l:#f8fafc;--d:#1e293b}
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Inter',sans-serif;line-height:1.6;color:#333;background:var(--l)}
+    .container{max-width:1200px;margin:auto;padding:0 1rem}
+    header{background:rgba(255,255,255,0.95);backdrop-filter:blur(10px);position:fixed;top:0;width:100%;z-index:1000;box-shadow:0 4px 20px rgba(0,0,0,0.08)}
+    nav{display:flex;justify-content:space-between;align-items:center;padding:1rem 0}
+    .logo{font-size:1.9rem;font-weight:800;color:var(--pd)}.logo span{color:var(--a)}
+    .nav-links a{margin-left:2rem;color:var(--d);text-decoration:none;font-weight:600;transition:.3s}
+    .nav-links a:hover{color:var(--p)}
+    .hero{height:100vh;background:linear-gradient(rgba(79,70,229,.94),rgba(55,48,163,.94)),url('https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80') center/cover;color:white;display:flex;align-items:center}
+    .hero h1{font-size:3.8rem;margin-bottom:1rem}
+    .lead{font-size:1.4rem;margin-bottom:2rem}
+    .badge{background:rgba(255,255,255,.2);padding:.5rem 1rem;border-radius:50px;margin:0.5rem;font-size:.9rem;display:inline-block}
+    .btn{background:var(--a);color:#1e1b4b;padding:1rem 2.5rem;border:none;border-radius:50px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block;transition:.3s}
+    .btn:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(245,158,11,.4)}
+    section{padding:6rem 0}
+    h2{font-size:2.8rem;text-align:center;margin-bottom:3rem;color:var(--d)}
+    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem}
+    .card{background:white;padding:2.5rem;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,0.08);transition:.4s}
+    .card:hover{transform:translateY(-10px)}
+    .card i{font-size:3.5rem;color:var(--p);margin-bottom:1rem}
+    .pricing .card{text-align:center}
+    .price{font-size:3rem;font-weight:800;color:var(--p);margin:1rem 0}
+    .old-price{text-decoration:line-through;color:var(--g);font-size:1.2rem}
+    .testimonials{background:#f8fafc}
+    .testimonial{padding:2rem;background:white;border-radius:12px;box-shadow:0 5px 20px rgba(0,0,0,0.06);position:relative}
+    .testimonial::before{content:"“";font-size:6rem;position:absolute;top:-20px;left:20px;color:var(--p);opacity:0.2}
+    .reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem}
+    .whatsapp-btn{position:fixed;bottom:20px;right:20px;background:#25d366;z-index:999;width:60px;height:60px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-size:30px;box-shadow:0 4px 20px rgba(0,0,0,0.3);transition:.3s}
+    .whatsapp-btn:hover{transform:scale(1.1)}
+    footer{background:#0f172a;color:#94a3b8;text-align:center;padding:3rem 1rem}
+    @media(max-width:768px){.hero h1{font-size:2.8rem}.nav-links{display:none}}
+  </style>
+</head>
+<body>
+
+  <!-- WhatsApp Button -->
+  <a href="https://wa.me/13477710802?text=Hi%20Fatih%20Hoca!%20I'd%20like%20to%20book%20a%20math%20lesson." class="whatsapp-btn" target="_blank">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+
+  <header>
+    <div class="container">
+      <nav>
+        <div class="logo">Fatih<span>Yilmaz</span></div>
+        <div class="nav-links">
+          <a href="#home">Home</a>
+          <a href="#subjects">Subjects</a>
+          <a href="#pricing">Pricing</a>
+          <a href="#reviews">Reviews</a>
+          <a href="#contact">Book Now</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <div class="container">
+      <h1>Master Math with a<br>World-Class Olympiad Coach</h1>
+      <p class="lead">17+ years | NJ Certified | Multiple Top-3 Worldwide Medals</p>
+      <div>
+        <span class="badge">AP Calculus Specialist</span>
+        <span class="badge">Gifted & Talented Expert</span>
+        <span class="badge">In-Person & Online</span>
+      </div>
+      <br><br>
+      <a href="#contact" class="btn Calendly">Book Free Trial Lesson →</a>
+    </div>
+  </section>
+
+  <!-- SUBJECTS -->
+  <section id="subjects">
+    <div class="container">
+      <h2>Courses Offered</h2>
+      <div class="cards">
+        <div class="card"><i class="fas fa-calculator"></i><h3>AP Calculus AB/BC</h3></div>
+        <div class="card"><i class="fas fa-shapes"></i><h3>Algebra I & II</h3></div>
+        <div class="card"><i class="fas fa-ruler-combined"></i><h3>Geometry</h3></div>
+        <div class="card"><i class="fas fa-chart-line"></i><h3>Pre-Calculus & Trig</h3></div>
+        <div class="card"><i class="fas fa-trophy"></i><h3>Math Olympiad (AMC/AIME/IMO)</h3></div>
+        <div class="card"><i class="fas fa-graduation-cap"></i><h3>SAT / ACT Math</h3></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section id="pricing" style="background:#f8fafc;">
+    <div class="container">
+      <h2>Simple & Transparent Pricing</h2>
+      <div class="cards pricing">
+        <div class="card">
+          <h3>Weekly Lessons</h3>
+          <div class="price">$90<span style="font-size:1rem">/hour</span></div>
+          <p>Algebra, Geometry, Pre-Calc</p>
+          <a href="#contact" class="btn">Get Started</a>
+        </div>
+        <div class="card" style="border:3px solid var(--a);transform:scale(1.05)">
+          <h3 style="color:var(--a)">Most Popular</h3>
+          <h3>AP Calculus Package</h3>
+          <div class="price">$120<span style="font-size:1rem">/hour</span></div>
+          <strike class="old-price">$150</strike>
+          <p>Best value for college-bound students</p>
+          <a href="#contact" class="btn">Book Now</a>
+        </div>
+        <div class="card">
+          <h3>Olympiad Training</h3>
+          <div class="price">$150<span style="font-size:1rem">/hour</span></div>
+          <p>AMC 10/12 → AIME → IMO level</p>
+          <a href="#contact" class="btn">Apply</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STUDENT SUCCESS STORIES -->
+  <section class="testimonials">
+    <div class="container">
+      <h2>What Parents & Students Say</h2>
+      <div class="reviews">
+        <div class="testimonial">
+          <p>"My son went from B- to A+ in AP Calculus BC and got 5 on the exam. Fatih Hoca is simply the best!"</p>
+          <strong>— Sarah K., Hackensack</strong>
+        </div>
+        <div class="testimonial">
+          <p>"Placed Top 50 nationally in AMC 12 after 6 months of coaching. Now attending MIT."</p>
+          <strong>— Alex M., Fair Lawn</strong>
+        </div>
+        <div class="testimonial">
+          <p>"Perfect 800 on SAT Math. Fatih teacher explains everything crystal clear."</p>
+          <strong>— Emily L., Clifton</strong>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BOOKING -->
+  <section class="contact" id="contact">
+    <div class="container">
+      <h2>Book Your Free 30-Min Trial Lesson</h2>
+      <p style="text-align:center;max-width:700px;margin:auto;font-size:1.2rem;color:#e2e8f0">
+        No obligation • Meet Fatih Hoca • See teaching style • Get a custom study plan
+      </p>
+      <br><br>
+      <!-- Calendly inline widget -->
+      <div class="calendly-inline-widget" data-url="https://calendly.com/fatihmats/30min" style="min-height:700px;"></div>
+      
+      <p style="text-align:center;margin-top:3rem;">
+        <i class="fas fa-phone"></i> (347) 771-0802 &nbsp; | &nbsp; 
+        <i class="fas fa-envelope"></i> fatihmats@gmail.com
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Fatih Yilmaz Math Tutoring | Paterson • Hackensack • Fair Lawn • Clifton NJ</p>
+  </footer>
+
+  <script>
+    // Smooth scroll
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+      a.addEventListener('click', e => {
+        e.preventDefault();
+        document.querySelector(a.getAttribute('href')).scrollIntoView({behavior: 'smooth'});
+      });
+    });
+  </script>
+</body>
+</html>
